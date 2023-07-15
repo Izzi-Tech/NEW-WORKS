@@ -1,0 +1,39 @@
+/K*selector {
+	property: value;
+}*/
+*{
+	text-align: right;
+}
+body {
+	background-color: ghostwhite;
+}
+h2, p{
+	color: gold;
+	text-align: center;
+	border: 5px solid purple;
+	cursor: pointer; 
+}
+p{
+	color: black;
+line-height: 2;
+font-style:italic;
+font-size: 50;
+font-family:cursive;
+font-weight: bold;
+}
+li {
+	list-style: none;
+	display: inline-block;
+}
+.webtext{
+	border: 2px dashed violet;
+}
+.active{
+	color: white;
+}
+#div1{
+	background-color: rgba(0, 0, 255, 0.2);
+}
+#div2{
+	background: rgba(0, 255, 0, 0.2);
+} 
